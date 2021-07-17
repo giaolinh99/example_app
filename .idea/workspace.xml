@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="409c7702-3472-4b40-9d1f-cad06a312e77" name="Default Changelist" comment="" />
+    <list default="true" id="409c7702-3472-4b40-9d1f-cad06a312e77" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/common/EmptyAppBar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/common/EmptyAppBar.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,5 +66,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1282" height="221" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1626345122858" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1626493228628">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1626493228628" />
   </component>
 </project>
