@@ -1,0 +1,4 @@
+#Thu Jul 15 11:11:50 ICT 2021
+base.0=D\:\\project\\E-COMMERCE\\BOOO\\baemin-clone\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
